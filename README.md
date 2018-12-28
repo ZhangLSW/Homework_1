@@ -1,6 +1,6 @@
 ロボットシステム学2018課題1
 ====
-マイコン:raspberry pi 3
+マイコン:raspberry pi 3 <br>
 OS:ubuntu 16.04 + ROS
 
 ## 目録
